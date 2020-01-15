@@ -1,0 +1,11 @@
+﻿Details_Table0_ComputerName,Details_Table0_DomainWorkgroup,Details_Table0_SMSSiteName,Details_Table0_OperatingSystem,Details_Table0_ServicePackLevel,SerialNumber,Manufacturer,Model,SamName,Name
+Computer001,Company,Springfield,Microsoft Windows 7 Professional,Service Pack 1,123-456-789,HP,HP ProDesk 400 G3 SFF,cspuckler,Cletus Spuckler
+Computer002,Company,Springfield,Microsoft Windows 7 Professional,Service Pack 1,123-456-790,HP,HP ProBook 450 G3,uzorker,Üter Zörker
+Computer003,Company,Springfield,Microsoft Windows 7 Professional,Service Pack 1,123-456-791,HP,HP ProBook 450 G3,bspuckler,Brandine Spuckler
+Computer004,Company,Springfield,Microsoft Windows 7 Professional,Service Pack 1,123-456-792,Dell Inc.,Latitude 3570,dstu,Disco Stu
+Computer005,Company,Springfield,Microsoft Windows 7 Professional,Service Pack 1,123-456-793,Hewlett-Packard,HP 630 Notebook PC,ftony,Fat Tony
+Computer006,Company,Springfield,Microsoft Windows 7 Professional,Service Pack 1,123-456-794,Hewlett-Packard,HP EliteBook 740 G1,ckwan,Cookie Kwan
+Computer007,Company,Springfield,Microsoft Windows 7 Professional,Service Pack 1,123-456-795,Hewlett-Packard,HP ProBook 450 G2,mmcclure,Troy McClure
+Computer008,Company,Springfield,Microsoft Windows 10 Pro,,123-456-796,Hewlett-Packard,HP ZBook 17,jjones,Jimbo Jones
+Computer009,Company,Springfield,Microsoft Windows 7 Professional,Service Pack 1,123-456-797,Hewlett-Packard,HP ProBook 450 G2,jbeardsley,Jasper Beardsley
+Computer010,Company,Springfield,Microsoft Windows 7 Professional,Service Pack 1,123-456-798,HP,HP ProBook 450 G3,dtatum,Drederick Tatum
